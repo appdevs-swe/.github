@@ -1,0 +1,13 @@
+{
+    "name": "KP Organization Workflow",
+    "description": "KP Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
